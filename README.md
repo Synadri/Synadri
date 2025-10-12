@@ -37,7 +37,7 @@
 
 ## 💼 What I've Been Up To
 
-### 🏠 PisosCentro - Real Estate Automation Platform
+### 🏠 Real Estate Automation Platform
 *The project I'm most proud of (Summer 2025)*
 
 Built a complete WhatsApp automation system for a real estate agency from the ground up.
