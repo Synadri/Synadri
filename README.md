@@ -1,64 +1,89 @@
-# Adrián
+# Adrián Barranco García
 
 <div align="center">
   
-  **Full-Stack Developer & Computer Engineering Student**
+  **AI & Machine Learning Engineer | Full-Stack Developer**
   
-  🎓 3rd Year @ University of Granada | 🌍 Granada, Spain | 💻 Building cool stuff with code | 🔐 Mostly working on private repos
+  🎓 Specializing in Computing and Intelligent Systems @ University of Granada (ETSIIT)
+  💼 Open to Full-Time ML/AI Intern Engineer & Researcher positions (Summer 2026)
+  🌍 Granada, Spain | 🔐 Mostly working on private repos
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrián-barranco-garcía-2985062a5)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-barranco-garcia/)
   
 </div>
 
 ---
 
 ## 🚀 About Me
-21-year-old developer, always looking to try new challenges and learn new technologies. Currently diving deep into **Computing and Intelligent Systems** while building **real-world projects** that solve actual problems.
+I am a 22-year-old Computer Engineering student with a strong passion for **Artificial Intelligence, Deep Learning, and Algorithm Optimization**. I love blending advanced theoretical models (like NLP pipelines and custom metaheuristics) with robust full-stack engineering to solve complex, real-world problems.
+
+- 🧠 Deeply interested in **Machine Learning, Deep Learning, and Soft Computing**.
+- 🛠️ Experienced in building scalable RESTful architectures and automation systems.
+- 🗣️ Native Spanish & **Cambridge Certified C1 Advanced English** speaker.
+
+---
 
 ## 🛠️ Tech Stack
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+### 🧠 Core ML / AI & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 🌐 Full-Stack Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### 🔧 Tools & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-## 💼 What I've Been Up To
+---
 
-### 🏠 Real Estate Automation Platform
-*The project I'm most proud of (Summer 2025)*
+## 💼 Featured Projects
 
-Built a complete WhatsApp automation system for a real estate agency from the ground up.
+### 🧠 Generative Chatbot with Deep Learning (NLP)
+*Python, Keras, Gensim*
+- Developed a **generative conversational agent** using a Seq2Seq LSTM architecture trained on a custom Reddit corpus.
+- Implemented **Transfer Learning** using pre-trained GloVe embeddings to boost semantic understanding.
+- Engineered an autoregressive inference decoder utilizing probabilistic sampling with configurable temperature for human-like responses.
 
-**The cool stuff:**
-- 🧠 **Smart Recommendation Engine**: Analyzes buyer/investor profiles and suggests personalized properties
-- ⚡ **Real-time Dashboard**: Live metrics and advanced management interface
-- 🔄 **Webhook Architecture**: Robust integration with ![Whapi](https://whapi.cloud) for seamless communication
-- 🎭 **Human-like Behavior**: Anti-spam limits and natural conversation patterns
+### 🧬 Metaheuristic Optimization Suite for Constrained Clustering
+*C++*
+- Built a high-performance framework for the **PAR clustering problem**, benchmarking 10+ algorithms (Genetic, Memetic, Simulated Annealing, ILS) across real-world datasets.
+- Evaluated performance strictly under an optimization budget of 100,000 evaluations, optimizing for fitness and constraint violations.
 
-## 🌱 Currently Learning
+### 🏠 Real Estate Automation Platform (PisosCentro)
+*Full-Stack Freelance Project (Summer 2025)*
+- Engineered an end-to-end **WhatsApp automation system** integrated with a custom CRM.
+- Developed a RESTful backend using **Flask and MySQL** to handle bidirectional webhooks, completely automating the commercial contact process.
 
-- Advanced System Architectures
-- AI & Machine Learning algorithms
-- Microservices design patterns
-- Performance optimization techniques
+### 🖼️ Convolutional Denoising Autoencoder
+*Deep Learning — Python, Keras*
+- Designed and trained a **CNN-based autoencoder** (Conv2D + MaxPooling / UpSampling) on MNIST to reconstruct clean images from noise-corrupted inputs.
+
+---
+
+## 🌱 Currently Diving Deeper Into
+
+- Advanced Deep Learning architectures & LLM fine-tuning
+- Metaheuristics & Soft Computing optimization
+- Autonomous Research & Scalable AI Engineering
 
 ## 📫 Let's Connect!
 
-- 📧 Email: adribg@correo.ugr.es
-- 💼 LinkedIn: [Adrián Barranco García](https://linkedin.com/in/adrián-barranco-garcía-2985062a5)
+- 📧 Email: [adribg@correo.ugr.es](mailto:adribg@correo.ugr.es)
+- 💼 LinkedIn: [Adrián Barranco García](https://linkedin.com/in/adrian-barranco-garcia/)
+- 💻 GitHub: [github.com/synadri](https://github.com/synadri)
 
 ---
 
