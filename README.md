@@ -5,7 +5,7 @@
   **AI & Machine Learning Engineer | Full-Stack Developer**
   
   🎓 Specializing in Computing and Intelligent Systems @ University of Granada (ETSIIT)
-  💼 Open to Full-Time ML/AI Intern Engineer & Researcher positions (Summer 2026)
+  💼 Open to Full-Time ML/AI Intern Engineer & Researcher positions
   🌍 Granada, Spain | 🔐 Mostly working on private repos
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-barranco-garcia/)
