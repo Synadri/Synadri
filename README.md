@@ -15,11 +15,10 @@
 ---
 
 ## 🚀 About Me
-I am a 22-year-old Computer Engineering student with a strong passion for **Artificial Intelligence, Deep Learning, and Algorithm Optimization**. I love blending advanced theoretical models (like NLP pipelines and custom metaheuristics) with robust full-stack engineering to solve complex, real-world problems.
+I am a CS student with a strong passion for **Artificial Intelligence, Deep Learning, and Algorithm Optimization**. I love blending advanced theoretical models with robust full-stack engineering to solve complex, real-world problems.
 
-- 🧠 Deeply interested in **Machine Learning, Deep Learning, and Soft Computing**.
+- 🧠 Deeply interested in **Machine Learning, NLP, and Soft Computing**.
 - 🛠️ Experienced in building scalable RESTful architectures and automation systems.
-- 🗣️ Native Spanish & **Cambridge Certified C1 Advanced English** speaker.
 
 ---
 
@@ -45,7 +44,6 @@ I am a 22-year-old Computer Engineering student with a strong passion for **Arti
 ### 🔧 Tools & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 ---
 
